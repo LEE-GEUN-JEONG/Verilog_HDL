@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/58419421/99415508-35f52680-293b-11eb-9d70-9763684e95ec.png)
 
 ### 소스코드
-#### 피보나치 수열을 hw적으로 
+#### 피보나치수열 HW 구현 
 module test(clk,reset,max_number, min_number, output_valid, fibonacci_out);
 // output fibonacci number between min_number and max_number)
 input clk, reset;
