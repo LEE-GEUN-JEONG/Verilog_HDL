@@ -4,13 +4,24 @@
 ## Quartus II 13.0sp1 tool을 이용한 HDL Verilog 코딩
 
 
+### IDEC Verilog HDL 수료증
+![image](https://user-images.githubusercontent.com/58419421/99415652-62a93e00-293b-11eb-8077-d1f28475a630.png)
+![image](https://user-images.githubusercontent.com/58419421/99415681-6a68e280-293b-11eb-8192-36e80e1eef8c.png)
+
+![image](https://user-images.githubusercontent.com/58419421/99415838-93897300-293b-11eb-9765-e3669c6e9e18.png)
+
+
+![image](https://user-images.githubusercontent.com/58419421/99415610-545b2200-293b-11eb-9fdc-47865491a4bf.png)
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/58419421/99415310-03e3c480-293b-11eb-91c5-d9e733cd188e.png)
 
-![image](https://user-images.githubusercontent.com/58419421/99415216-edd60400-293a-11eb-9735-af101039aeca.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/58419421/99415508-35f52680-293b-11eb-9d70-9763684e95ec.png)
 
 ### 소스코드
 #### 피보나치 수열을 hw적으로 
